@@ -1,0 +1,2 @@
+gmusicapi-scripts
+git+https://github.com/thebigmunch/gmusicapi-scripts
